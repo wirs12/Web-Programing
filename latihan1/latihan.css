@@ -1,0 +1,78 @@
+body {
+    background-color: rgb(83, 82, 85);
+}
+
+.profil {
+    font-size: 1.7rem;
+    padding: 15px;
+    text-align: center;
+    background-image: url(https://i.pinimg.com/originals/cb/f1/52/cbf15261a610708c5f1374dd7a0aa9ab.jpg);
+    z-index: auto;
+    color: white;
+    background-repeat: no-repeat;
+
+    
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+} 
+
+
+header {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    background-color: rgb(3, 3, 3);
+    color: white;
+}
+
+.img {
+    padding-left: 80px;
+    
+}
+
+.data {
+    padding-left: 40px;
+}
+
+a {
+    color: white;
+}
+
+
+div {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 1.7rem;
+}
+
+img {
+    width: 29%;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+td {
+    padding: 15px;
+    margin: 20px;
+    width: 274px;
+    background-color: rgb(34, 34, 34);
+    color: rgb(170, 167, 167);
+    font-size: 1.2rem;
+}  
+
+th {
+    padding: 15px;
+    margin: 20px;
+    width: 274px;
+    background-color: rgb(20, 20, 20);
+    color: rgb(255, 255, 255);
+    font-size: 1.2rem;
+}
+
+table {
+    border-radius: 20px;
+}
